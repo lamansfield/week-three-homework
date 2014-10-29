@@ -1,0 +1,54 @@
+p {color: black;}
+p {font-size: 12pt; font-family: Verdana}
+body {background-color: #E0E0E0;}
+h1 {color: red; font-family: verdana;}
+h2 {color: green; font-family: verdana;}
+h3 {color: yellow; font-family: arial, sans-serif;}
+h4 {color: purple; font-family: arial;}
+img {
+    border: 3px solid black; 
+    box-shadow: 10px 10px 5px #888;
+    padding: 20px;
+    margin: 20px;
+}
+hr { 
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+    border-width: 2px;
+    color: brown;
+} 
+a:link {color: purple; font-size: 14px;}
+a:visited {color: green; font-size: 14px;}
+a:hover {color: red; font-size: 14px;}
+blockquote {font-family: Georgia, serif;
+    font-size: 18px;
+    font-style: italic;
+    width: 500px;
+    margin: 0.25em 0;
+    padding: 0.25em 40px;
+    line-height: 1.45;
+    position: relative;
+    color: red;
+    border: 0;
+}
+address {
+    font-family: arial, sans-serif;
+    font-style: oblique;
+    margin-top: 1em;
+    padding-top: 1em;
+    text-align: right;    
+    line-height: 120%;
+}
+footer {
+    background-color: orange;
+    color: red;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    line-height: 110%;
+    border: 0;
+}
+
